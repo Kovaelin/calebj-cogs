@@ -1,3 +1,5 @@
+Note: Analytics have been removed from this repository.
+
 # CalebJ Cogs
 #### General, fun and utility modules for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/)
 [![Patreon](https://img.shields.io/badge/Support-me!-orange.svg)](https://www.patreon.com/calebj) [![Donate](https://img.shields.io/badge/Paypal-donate-blue.svg)](https://paypal.me/calebrj) [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py) [![Red-DiscordBot](https://img.shields.io/badge/red-bot-red.svg)](https://github.com/Cog-Creators/Red-DiscordBot/) [![Support server invite](https://img.shields.io/discord/240154543684321280.svg)](https://discord.gg/2DacSZ7) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
