@@ -1,4 +1,4 @@
-Note: Analytics have been removed from this repository.
+Note: Analytics have been removed from this repository. Cog for Red v2.
 
 # CalebJ Cogs
 #### General, fun and utility modules for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/)
